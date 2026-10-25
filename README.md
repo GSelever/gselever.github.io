@@ -1,2 +1,2 @@
 # gselever.github.io
-My website to house class projects I am particulary proud of
+My GitHub to house class projects I am particularly proud of
